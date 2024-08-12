@@ -1,0 +1,18 @@
+ASN2: Jigsaw Recording system (Draft)
+Dinesh Kulkarni
+•
+Aug 1
+100 points
+Due Aug 6, 9:29 AM
+Develop a recording system for a Jigsaw game that efficiently logs all player movements with minimal space requirements. The game has following features.
+
+1. Jigsaw has 26*26 tiles out of which 128 are unique. 
+2. Every tile can be fitted any of 4 orientations. 
+3. Player is allowed to move square portion of tile/s at a time. 
+(Hint:  Use Huffman coding and Matrix chain Multiplication algorithms)
+Make suitable assumption, include the assumptions in the notes.
+Submission:
+
+1. Scan copy of Logic on one handwritten page   
+2. The code
+3. Note on storage efficiency
